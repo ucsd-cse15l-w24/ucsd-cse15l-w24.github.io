@@ -412,7 +412,7 @@ if your Github Pages site has the link [https://pandrew99.github.io/cse15l-lab-r
 and you made your lab report 1 .md file called `lab1.md`, you would access it by adding `lab1.html` 
 at the end, like: [https://pandrew99.github.io/cse15l-lab-reports-example/lab1.html](https://pandrew99.github.io/cse15l-lab-reports-example/lab1.html).
 The format of the PDF you submit should look something like this:
-![Image](../../images/cse15l-lab-reports-example.png)
+![Image](../images/cse15l-lab-reports-example.png)
     
 **How should I match pages with questions when submitting to Gradescope?**
 
