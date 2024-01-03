@@ -36,11 +36,11 @@ The schedule below outlines topics, due dates, and links to assignments. The
 schedule of lecture topics might change slightly, but I post a general plan so
 you can know roughly where we are headed.
 
-The due dates tend to be on **Tuesday evening at 10pm** for the major things you need to submit.
-
-
 ### Week 1 - Markdown, URLs, and Paths
 
-- [Lab 1](./week1/index.md)
+- [Lab 1 Activities](./week1/index.md)
+- TODO:
+  - Quiz 1 Due **Wednesday, January 10, 9am**
+  - Lab Report 1 Due **Tuesday, January 16, 10pm**
 - Reading and resources:
 
