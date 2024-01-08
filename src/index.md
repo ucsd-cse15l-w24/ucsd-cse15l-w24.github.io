@@ -42,6 +42,9 @@ you can know roughly where we are headed.
 - Deadlines:
   - Quiz 1 Due **Wednesday, January 10, 9am**
   - Lab Report 1 Due **Tuesday, January 16, 10pm**
+- Lecture Materials:
+  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1ujXevnvG3fyxLY710RnWjDeMYYLt6fa_/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
+  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1puBjiB0mx-k0YGsITeQH9IQb56lCfVsJ/view?usp=sharing)
 - Reading and resources:
 
 ## Syllabus and Policies {#components}
