@@ -7,7 +7,7 @@
 [Basics](#basics) -
 [Schedule](#schedule) -
 [Course Components](#syllabus) -
-[Staff &amp; Resources](#staff--resources) -
+[Staff &amp; Resources](#staff-resources) -
 [Grading](#grading) -
 [Policies](#policy)
 
@@ -143,6 +143,11 @@ In finals week, you'll have the opportunity to improve scores for some number of
 There will be skill demonstrations in weeks 3, 5, 7, and 9 of the quarter. More details
 about how you'll complete them will be shared in lab (you'll practice the format and we'll talk about
 scheduling them).
+
+## Staff Resources
+
+### Office Hours Calendar
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&src=Y19hNTRjZWFkOTE5MTE5NGExYzU4ZjZiYzU0NDQ0NzVkZTNiNzdkZjczMmY1MzYwNmFjNDZhZjI3NzA3MjIzNmMwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F4511E" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Grading
 
