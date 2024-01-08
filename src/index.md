@@ -46,7 +46,6 @@ you can know roughly where we are headed.
 - Lecture Materials:
   - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1ujXevnvG3fyxLY710RnWjDeMYYLt6fa_/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
   - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1puBjiB0mx-k0YGsITeQH9IQb56lCfVsJ/view?usp=sharing)
-- Reading and resources:
 
 ## Syllabus
 
@@ -70,7 +69,13 @@ participation in these discussions for credit. Note that you must
 
 If you miss lab, you'll still be held accountable for understanding the
 relevant material via Skill Demonstrations and Lab Reports. You can miss 2 labs
-without it impacting your grade (see [Grading](#grading) below).
+without it impacting your grade (see [Grading](#grading) below). There is no
+way to make up a lab, even for illness, travel, or emergencies. My preference
+would be to require all 10 labs for an A, and have some kind of excused
+absences. However, tracking excused absences doesn't really scale, so the “two
+for any reason” policy is how we handle it. You don't need to justify your
+missed labs. Contact the instructor if you'll miss more than 2 labs for
+unavoidable reasons.
 
 ### Lecture Sessions
 
