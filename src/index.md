@@ -6,9 +6,10 @@
 
 [Basics](#basics) -
 [Schedule](#schedule) -
+[Course Components](#syllabus) -
 [Staff &amp; Resources](#staff--resources) -
-[Grading](#course-components-and-grading) -
-[Policies](#policies)
+[Grading](#grading) -
+[Policies](#policy)
 
 In this course, we'll explore a number of **Software Tools & Techniques** that are used commonly by developers in their day-to-day work. You'll learn how to manage files and programs from the command line, and you'll get direct practice (and build muscle memory!) with keyboard shortcuts, tricks, and techniques for managing data and programs. Throughout, you'll exercise and improve your skills in program understanding and debugging.
 
@@ -47,7 +48,7 @@ you can know roughly where we are headed.
   - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1puBjiB0mx-k0YGsITeQH9IQb56lCfVsJ/view?usp=sharing)
 - Reading and resources:
 
-## Syllabus and Policies
+## Syllabus
 
 There are several components to the course:
 
@@ -166,6 +167,8 @@ all of the quizzes on time and complete, that will definitely add a `+` to the
 grade. If you submit no lecture handouts and no quizzes, that will definitely
 add a `-` to the grade.  If you submit about half of each and get things generally
 mostly correct, there will be no modifier.
+
+## Policy
 
 ## Academic Integrity
 
