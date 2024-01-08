@@ -107,7 +107,7 @@ a blog post on a personal site you created in the first week.  At the end of
 the quarter this means you'll have a personal web site with 5 posts detailing
 what you learned.
 
-For each post, our staff will review it and give a **0-4** score along with feedback:
+For each post, our staff will review it and give a **0-3** score along with feedback:
 
 - **3** for a complete submission of professional quality that covers all the expectations listed in the report
 - **2** for a complete submission with some mistakes, some unclear writing, or some confusing or nonstandard formatting
