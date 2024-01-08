@@ -47,7 +47,7 @@ you can know roughly where we are headed.
   - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1puBjiB0mx-k0YGsITeQH9IQb56lCfVsJ/view?usp=sharing)
 - Reading and resources:
 
-## Syllabus and Policies {#components}
+## Syllabus and Policies
 
 There are several components to the course:
 
@@ -138,7 +138,7 @@ There will be skill demonstrations in weeks 3, 5, 7, and 9 of the quarter. More 
 about how you'll complete them will be shared in lab (you'll practice the format and we'll talk about
 scheduling them).
 
-## Grading {#grading}
+## Grading
 
 Each component of the course has a minimum achievement level to get an A, B, or
 C in the course. You must reach that achievement level in _all_ of the
