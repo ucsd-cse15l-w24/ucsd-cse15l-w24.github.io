@@ -106,7 +106,7 @@ Sometimes quizzes have associated readings or videos to supplement lecture.
 
 ### Lab Reports/Portfolio Posts
 
-Every other Monday (that's in weeks 2, 4, 6, 8, 10) you will submit a lab report on
+Every other Tuesday (that's in weeks 2, 4, 6, 8, 10) you will submit a lab report on
 work from the previous week or two of lab material. This will take the form of
 a blog post on a personal site you created in the first week.  At the end of
 the quarter this means you'll have a personal web site with 5 posts detailing
