@@ -209,7 +209,7 @@ You're free to collaborate with others on preparing for
 the skill demonstration, trying things out beforehand, and so on.
 
 You **cannot** share details of _your_ skill demonstration with others until
-after you receive your grade for it.
+after you receive your grade for it. You **cannot** communicate with anyone during the skill demonstration.
 
 ### Quizzes and Academic Integrity
 
