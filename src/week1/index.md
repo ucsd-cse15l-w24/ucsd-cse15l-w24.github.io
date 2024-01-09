@@ -366,7 +366,7 @@ Please go ahead and fill out this Google form before you leave, this will help u
 ## Lab Report 1 - Remote Access and FileSystem (Week 1) {#week-1-lab-report}
 
 You’ll submit a lab report by writing a blog post about the basic filesystem commands we learned today. You should create the post, like we 
-just described using Github Pages. The lab report is due Monday, October 9 by 10pm. 
+just described using Github Pages. The lab report is due Tuesday, January 16 by 10pm. 
 See the FAQ below for common questions, including how to add images and what to submit 
 to Gradescope.
 
