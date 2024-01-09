@@ -361,7 +361,7 @@ is written in Markdown and uses Github Pages!)
 
 #### Before you leave
 
-Please go ahead and fill out this Google form before you leave, this will help us create the seating chart for next week. [Link to Google form](https://forms.gle/fGDuC35pVjHt8zaP9)
+Please go ahead and fill out this Google form before you leave, this will help us create the seating chart for next week. [Link to Google form]
 
 ## Lab Report 1 - Remote Access and FileSystem (Week 1) {#week-1-lab-report}
 
