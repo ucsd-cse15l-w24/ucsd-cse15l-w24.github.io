@@ -291,5 +291,11 @@ multiple late deadlines and still grade all the coursework on time.
 
 Stay tuned for announcements about scheduling make-ups in finals week.
 
+**Where is the financial aid survey?**
+
+We do this for you; as long as you submit a quiz, lecture handout, or do a lab
+participation in the first two weeks, we will mark you as commencing academic
+activity.
+
 
 
