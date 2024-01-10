@@ -47,7 +47,7 @@ you can know roughly where we are headed.
   - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1ujXevnvG3fyxLY710RnWjDeMYYLt6fa_/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
   - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1puBjiB0mx-k0YGsITeQH9IQb56lCfVsJ/view?usp=sharing)
   - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/145pR7irxqa744Jyzm49w7i-GbfQ3MHlL/edit?usp=sharing&ouid=107408851252378993524&rtpof=true&sd=true)
-  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1AJ_TQJd9dLMoW03KPP23jlSak-JwEsfA/view?usp=share_link)
+  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1Tr3KFyvsCaAoMj3rcSzmDPh8DQLJdisy/view?usp=share_link)
 
 ## Syllabus
 
