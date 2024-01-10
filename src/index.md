@@ -252,5 +252,39 @@ Attend and complete all the work required while waitlisted (this is consistent
 with [CSE
 policy](https://cse.ucsd.edu/undergraduate/courses/enrolling-cse-courses)).
 
+**I missed lecture/have to travel for a lecture, what should I do?**
+
+Find the associated handout for the week above, watch the
+[podcast](https://podcast.ucsd.edu/watch/wi24/cse15l_a00), and hand in a
+scan/digital PDF of the handout to Gradescope before the next class.
+
+**I missed lab, what should I do?**
+
+You cannot makeup missed lab credit (but have a few “allowed” misses). Make
+sure you understand the material from lab because it will be used on skill
+demos and lab reports; try to do the parts that don't involve discussion on
+your own, and review your group's lab notes.
+
+**I missed a quiz deadline, what should I do?**
+
+You can submit it late until the end of the quarter. Generally we allow lots
+(think like 1/3 to 1/2) of the quizzes to be late without it impacting your
+grade, but do take them seriously before lab so you're prepared.
+
+**I missed a lab report deadline, what should I do?**
+
+Two weeks after each lab report deadline there is a late/resubmission deadline.
+You can resubmit then. See the lab report section above for grading details
+about resubmissions.
+
+**I missed a lab report resubmission deadline, what should I do?**
+
+You cannot get an extension on lab report resubmissions; we cannot support
+multiple late deadlines and still grade all the coursework on time.
+
+**I missed my skill demonstration time, what should I do?**
+
+Stay tuned for announcements about scheduling make-ups in finals week.
+
 
 
