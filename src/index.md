@@ -214,3 +214,41 @@ after you receive your grade for it. You **cannot** communicate with anyone duri
 ### Quizzes and Academic Integrity
 
 You can work on weekly quizzes with other students.
+
+## Anticipated Frequent Questions
+
+**Can I attend a lab section other than the one I'm enrolled in?**
+
+No, please do not try to do this. The lab sections have limited seating and are
+full. We cannot accommodate switching.
+
+**How can I switch sections?**
+
+You have to drop and re-add (which may involve getting [back on] the waitlist).
+Sorry.
+
+**What do I need to do to get an A?**
+
+See the grading section above.
+
+**Can I leave lab early if I'm done?**
+
+The labs are designed to not be things you can “finish”. Labs have plenty of
+extension and exploration activities at the end for you to try out, discuss,
+and help one another with. Co-located time with other folks learning the same
+things is precious and what courses are for. Also, if you need an extrinsic
+motivation, you won't get credit for participation if you don't stay, and
+participate, the whole time.
+
+**Do I have to come to lab?**
+
+Yes, see grading above.
+
+**What should I do if I'm on the waitlist?**
+
+Attend and complete all the work required while waitlisted (this is consistent
+with [CSE
+policy](https://cse.ucsd.edu/undergraduate/courses/enrolling-cse-courses)).
+
+
+
