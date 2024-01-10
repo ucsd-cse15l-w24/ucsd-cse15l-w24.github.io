@@ -258,6 +258,11 @@ Find the associated handout for the week above, watch the
 [podcast](https://podcast.ucsd.edu/watch/wi24/cse15l_a00), and hand in a
 scan/digital PDF of the handout to Gradescope before the next class.
 
+**I missed the late deadline for a lecture handout submission, what should I do?**
+
+You cannot submit a lecture handout after the beginning of the next lecture;
+move on and focus on getting to the next ones!
+
 **I missed lab, what should I do?**
 
 You cannot makeup missed lab credit (but have a few “allowed” misses). Make
