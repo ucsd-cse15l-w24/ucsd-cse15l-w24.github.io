@@ -389,6 +389,8 @@ You will upload your submission by publishing the page on Github Pages, then
 printing the page to PDF and uploading to the Lab Report 1 assignment on
 Gradescope.
 
+**Note:** Make sure to use backticks \` around keywords such as commands, file names, paths, etc. to make them show up as code like `cd`. 
+
 ### Submission FAQ
 
 **Should I submit the Google Doc we used during the lab session for this Lab
