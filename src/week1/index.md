@@ -423,11 +423,6 @@ at the end, like: [https://pandrew99.github.io/cse15l-lab-reports-example/lab1.h
 The format of the PDF you submit should look something like this:
 ![Image](../images/cse15l-lab-reports-example.png)
     
-**How should I match pages with questions when submitting to Gradescope?**
-
-You should match all pages of your lab report to the question called "Score". 
-This makes it easier for us to grade your lab reports and provide feedback faster.
-    
 **Can I use screenshots from the lab document we worked on together?**
 
 Sure! If they are from your account, that's fine. Don't share another person's screenshots,
