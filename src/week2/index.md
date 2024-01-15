@@ -37,6 +37,8 @@ Look up your course-specific account for CSE15L here:
 
 [https://sal.ucsd.edu/](https://sal.ucsd.edu/)
 
+**If you are previewing this document before your lab, please note that your account may not be set up yet.**
+
 Once you have the username (which should look like `cs15lwi24XXX` with the `XXX` different for each student), you can reset just your course-specific password at the following link:
  
  [https://password.ucsd.edu/](https://password.ucsd.edu/)
