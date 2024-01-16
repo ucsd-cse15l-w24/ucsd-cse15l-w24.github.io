@@ -57,16 +57,6 @@ free to start working on later sections of the lab,
 
 **In Your Group for 15 minutes**
 
-**Note**: In this section, whenever you see a chunk of code in light gray, we are specifying that the code block is running on the **remote** server. For example:
-```
-  $ this is a command to the remote server
-```
-{: .remote}
-
-```
-  $ this is a command on your own computer
-```
-
 Many courses in CSE use course-specific accounts. These are similar to accounts
 you might get on other systems at other institutions (or a future job). We'll
 see how to use the terminal in EdStem.
@@ -127,7 +117,6 @@ ieng6-203   23:25:01   1  0.08,  0.15,  0.11
 
 Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
 ```
-{: .remote}
 
 Now your terminal is connected to a computer in the CSE basement, and any
 commands you run will run on that computer! We call your computer the _client_
@@ -290,13 +279,13 @@ problem – each one only has one port `4000`. If multiple people try to use the
 same port at the same time on the same computer, there will be an error:
 
 ```
+# On remote server
 [cs15lwi24@ieng6-202]:wavelet:123$ java NumberServer 4000
 Exception in thread "main" java.net.BindException: Address already in use
         at sun.nio.ch.Net.bind0(Native Method)
         at sun.nio.ch.Net.bind(Net.java:461)
         at sun.nio.ch.Net.bind(Net.java:453)
 ```
-{: .remote}
 
 So you can't *all* use port `4000`. If you want something unique for this lab
 you can use `6000` + the number of the machine you're sitting in front of if in
