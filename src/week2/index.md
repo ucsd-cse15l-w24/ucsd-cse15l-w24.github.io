@@ -1,5 +1,12 @@
 # Week 2 – URLs and Servers
 
+## Lecture Materials
+
+- [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13ESz6G6UVoTLbnJ6oopGWwxY--_oyNCS/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
+- [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1QXV2eEYmHIomcpHdX2zoKZvXnPJ_5Vkd/view?usp=sharing)
+- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13M_vMvQkkb0rYri1eQnYOOAAjlZaQ4aa/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
+- [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1dQAk0ZE7-CkXFkmMoBsW0e9_kScWKWwH/view?usp=sharing)
+
 ## Lecture-Length Videos
 
 This video about URLs takes the place of Monday's lecture and helps get set up
