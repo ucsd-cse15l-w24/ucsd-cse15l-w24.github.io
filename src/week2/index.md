@@ -370,8 +370,7 @@ Examples of paths/queries:
 
 Discuss with your partner how you plan to add a new string to the list, query for it, and return a list of all strings with the given substring (as described above).
 
-When you've implemented this (and even if you don't finish), push a copy of your
-new server to your Github repository; we will use it and improve on it in future
+When you've implemented this (and even if you don't finish), make a note of the path for the code; we will use it and improve on it in future
 labs.
 
 **Write down in notes** – When you have something you want to share for your
