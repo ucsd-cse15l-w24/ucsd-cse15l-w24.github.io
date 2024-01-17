@@ -38,29 +38,7 @@ Today we'll use some of what we learned about URLS to create a **web server**.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rDpgSpZyScY?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Your CSE15L Account
-
-Look up your course-specific account for CSE15L here:
-
-[https://sal.ucsd.edu/](https://sal.ucsd.edu/)
-
-**If you are previewing this document before your lab, please note that your account may not be set up yet.**
-
-Once you have the username (which should look like `cs15lwi24XXX` with the `XXX` different for each student), you can reset just your course-specific password at the following link:
- 
- [https://password.ucsd.edu/](https://password.ucsd.edu/)
-
- In the text field, enter the `cs15lwi24XXX` username you just found in the previous step. Screenshots of what that looks like are here:
-[[TUTORIAL] How to Reset your CSE 15L Password](https://drive.google.com/file/d/17QSIeTLCQLPQJHXX6nNC8OPl7yaszFeN/view?usp=share_link). There is also [official UCSD documentation](https://support.ucsd.edu/services?id=kb_article_view&sys_kb_id=02e7cfd897152150ae34f880f053af8c) on this.
-
-Follow the onscreen instructions very carefully! Have someone watch you do it if
-you feel like it isn't working.
-
-If you've reset and you're waiting a few minutes for it to take effect, feel
-free to start working on later sections of the lab, 
-
-
-### Remotely Connecting
+### Remotely Connecting to CSE15L account
 
 **In Your Group for 15 minutes**
 
@@ -69,21 +47,17 @@ you might get on other systems at other institutions (or a future job). We'll
 see how to use the terminal in EdStem.
 
 Open a terminal in EdStem. To use `ssh`, your command will look like this, but
-with the `zz` replaced by the letters in your course-specific account.
+with the `user` replaced by your specific TritonLink username.
 
 ```
-$ ssh cs15lwi24zz@ieng6.ucsd.edu
+$ ssh user@ieng6.ucsd.edu
 ```
-
-(That's one, five, l (lowercase letter L, not one); the one and l look very
-close in some fonts. And remember that when we write the `$`, that's not for you
-to type in! It's just a convention for how we write commands.)
 
 Since this is likely the first time you've connected to this server, you will
 probably get a message like this:
 
 ```
-$ ssh cs15lwi24zz@ieng6.ucsd.edu
+$ ssh user@ieng6.ucsd.edu
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
@@ -96,12 +70,12 @@ someone is trying to listen in on or control the connection. This answer is a
 decent description of what's going on: [Ben Voigt's
 answer](https://superuser.com/questions/421074/ssh-the-authenticity-of-host-host-cant-be-established/421084#421084)
 
-So type `yes` and press enter, then give your password; the whole interaction
-should look something like this once you give your password and are logged in:
+So type `yes` and press enter, then type the password for your TritonLink user account; the whole interaction
+should look something like this once you give the password and are logged in:
 
 ```
 # On your client
-$ ssh cs15lwi24zz@ieng6.ucsd.edu
+$ ssh user@ieng6.ucsd.edu
 The authenticity of host 'ieng6-202.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
@@ -112,7 +86,7 @@ Password:
 # Now on remote server
 Last login: Sun Jan  2 14:03:05 2022 from 107-217-10-235.lightspeed.sndgca.sbcglobal.net
 quota: No filesystem specified.
-Hello cs15lsp23zz, you are currently logged into ieng6-203.ucsd.edu
+Hello user, you are currently logged into ieng6-203.ucsd.edu
 
 You are using 0% CPU on this system
 
@@ -122,7 +96,27 @@ ieng6-201   23:25:01   0  0.08,  0.17,  0.11
 ieng6-202   23:25:01   1  0.09,  0.15,  0.11
 ieng6-203   23:25:01   1  0.08,  0.15,  0.11
 
-Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
+To begin work for one of your courses [ cs15lwi24 ], type its name
+at the command prompt.  (For example, "cs15lwi24", without the quotes).
+
+To see all available software packages, type "prep -l" at the command prompt,
+or "prep -h" for more options
+```
+
+Now execute the following command
+
+```
+$ cs15lwi24
+```
+
+(That's one, five, l (lowercase letter L, not one); the one and l look very
+close in some fonts. And remember that when we write the `$`, that's not for you
+to type in! It's just a convention for how we write commands.)
+
+You should get the following output:
+
+```
+Sun Jan 02, 2022 11:28pm - Prepping cs15lwi24
 ```
 
 Now your terminal is connected to a computer in the CSE basement, and any
@@ -278,7 +272,7 @@ one that shows an error.
 
 ### Run the Server on a Remote Computer
 
-Next, [log into your course account](https://ucsd-cse15l-f23.github.io/week/week2/#your-cse15l-account) on `ieng6`. Then clone the same `wavelet` repository there.
+Next, [log into your course account](https://ucsd-cse15l-f23.github.io/week/week2/#remotely-connecting-to-cse15l-account) on `ieng6`. Then clone the same `wavelet` repository there.
 
 Now, run your web server on `ieng6` using the same `java` and `javac` commands that you used to run it on your local machine. Note that there are only 3 ieng6 computers (you'll see that you've connected to
 `ieng6-201`, `ieng6-202`, or `ieng6-203` in the prompt), which presents a
@@ -287,7 +281,7 @@ same port at the same time on the same computer, there will be an error:
 
 ```
 # On remote server
-[cs15lwi24@ieng6-202]:wavelet:123$ java NumberServer 4000
+[user@ieng6-202]:wavelet:123$ java NumberServer 4000
 Exception in thread "main" java.net.BindException: Address already in use
         at sun.nio.ch.Net.bind0(Native Method)
         at sun.nio.ch.Net.bind(Net.java:461)
@@ -311,7 +305,7 @@ Get their server URL and port number, and access their number server on
 ***your*** computer (**HINT**: You may want to share the URL and port number on
 your group's Google Doc). Take a screenshot of ***your*** computer loading a webpage of
 ***their*** server, which should show the current number (though not their name!). Was their web server running on the same `ieng6` machine as yours? The same port?
-<!-- Joe's answer: It’s stored on the heap as a field in a NumberServer object in the a Java process owned by cs15lwi24zz running on ieng6-201. -->
+<!-- Joe's answer: It’s stored on the heap as a field in a NumberServer object in the a Java process owned by "user" running on ieng6-201. -->
 
 **Write down in notes** – If you have multiple browsers on different computers
 all incrementing the number on one web server, do they all see one anothers'
@@ -322,7 +316,7 @@ to make a web server, what are some ideas for other applications you could
 create? Think about things you could plausibly build with your knowledge of Java
 plus this server interface.  What else might you need to go further?
 
-**Write down in notes** – When you ran the server on `ieng6`, it didn't include your name (where you made it say `[Your Name] - <number>` on EdStem), even though you made that edit. Why not? What are things you could do, using only what we've seen in class so far, to get that version of the code on the server. Hint – you can make new public Github repositories yourself!
+**Write down in notes** – When you ran the server on `ieng6`, it didn't include your name (where you made it say `[Your Name] : <number>` on EdStem), even though you made that edit. Why not? What are things you could do, using only what we've seen in class so far, to get that version of the code on the server. Hint – you can make new public Github repositories yourself!
 
 ### Accessing URLs from the Command Line with `curl`
 
