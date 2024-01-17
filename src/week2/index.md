@@ -322,7 +322,7 @@ to make a web server, what are some ideas for other applications you could
 create? Think about things you could plausibly build with your knowledge of Java
 plus this server interface.  What else might you need to go further?
 
-**Write down in notes** – When you ran the server on `ieng6`, it didn't inlude your name (where you made it say `[Your Name] - <number>` on EdStem), even though you made that edit. Why not? What are things you could do, using only what we've seen in class so far, to get that version of the code on the server. Hint – you can make new public Github repositories yourself!
+**Write down in notes** – When you ran the server on `ieng6`, it didn't include your name (where you made it say `[Your Name] - <number>` on EdStem), even though you made that edit. Why not? What are things you could do, using only what we've seen in class so far, to get that version of the code on the server. Hint – you can make new public Github repositories yourself!
 
 ### Accessing URLs from the Command Line with `curl`
 
