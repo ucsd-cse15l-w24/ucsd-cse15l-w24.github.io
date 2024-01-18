@@ -289,7 +289,7 @@ Exception in thread "main" java.net.BindException: Address already in use
 ```
 
 So you can't *all* use port `4000`. If you want something unique for this lab
-you can use `6000` + the number of the machine you're sitting in front of if in
+you can use `4000` + the number of the machine you're sitting in front of if in
 room B260, and `7000` + that number if in room B270. Or experiment!
 
 The cool thing about running it on these computers is you can access it from
