@@ -272,7 +272,7 @@ one that shows an error.
 
 ### Run the Server on a Remote Computer
 
-Next, [log into your course account](https://ucsd-cse15l-f23.github.io/week/week2/#remotely-connecting-to-cse15l-account) on `ieng6`. Then clone the same `wavelet` repository there.
+Next, log into your account on `ieng6`. Then clone the same `wavelet` repository there.
 
 Now, run your web server on `ieng6` using the same `java` and `javac` commands that you used to run it on your local machine. Note that there are only 3 ieng6 computers (you'll see that you've connected to
 `ieng6-201`, `ieng6-202`, or `ieng6-203` in the prompt), which presents a
