@@ -2,9 +2,6 @@
 
 ## Lecture Materials
 
-- [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13ESz6G6UVoTLbnJ6oopGWwxY--_oyNCS/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
-- [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1QXV2eEYmHIomcpHdX2zoKZvXnPJ_5Vkd/view?usp=sharing)
-  
 ### To Read/For Your Reference
 
 - [Visual Studio Code](https://code.visualstudio.com/)
