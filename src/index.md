@@ -37,6 +37,14 @@ The schedule below outlines topics, due dates, and links to assignments. The
 schedule of lecture topics might change slightly, but I post a general plan so
 you can know roughly where we are headed.
 
+### Week 3 - VSCode and Your Local Machine
+
+- [Lab 3 Activities](./week3/index.md)
+- Deadlines:
+  - Quiz 3 Due **Wednesday, January 24, 9am**
+  - Lab Report 2 Due **Tuesday, January 30, 10pm**
+- Lecture Materials:
+
 ### Week 2 - URLs and Servers
 
 - [Lab 2 Activities](./week2/index.md)
