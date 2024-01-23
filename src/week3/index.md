@@ -180,5 +180,84 @@ Google Account to see if it's set up for you. There's nothing else to do until
 the day of lab.
 
 
-## Lab Report 2 (Week 3)
-Coming Soon!
+## Lab Report 2 - Servers and SSH Keys (Week 3) {#week3-lab-report}
+
+As with the first lab report, you'll write this as a Github Pages page, then
+print that page to PDF and upload to Gradescope. There are 3 parts:
+
+### Part 1
+
+Write a web server called `ChatServer` that supports the path and behavior
+described below. It should keep track of a single string that gets added to by
+incoming requests. The requests should look like this:
+
+```
+/add-message?s=<string>&user=<string>
+```
+
+The effect of this request is to concatenate the string given after `user=`, a
+colon (`:`), and then the string after `s`, a newline (`\n`), and then respond
+with the entire string so far. That is, it adds a chat message of the form
+`<user>: <message>`
+
+So, for example, after
+
+```
+/add-message?s=Hello&user=jpolitz
+```
+
+The page should show
+
+```
+jpolitz: Hello
+```
+
+and after
+
+```
+/add-message?s=How are you&user=yash
+```
+
+the page should show
+
+```
+jpolitz: Hello
+yash: How are you
+```
+
+(Some browsers might show this as `How%20are%20you` with a special character
+replacing the spaces; don't worry about fixing that for this example. If you
+want to look it up it has to do with URL encoding, a topic we won't address
+right now.)
+
+Show the code for your `ChatServer`, and two screenshots of using `/add-message`.
+
+For **each** of the two screenshots, describe:
+
+- Which methods in your code are called?
+- What are the relevant arguments to those methods, and the values of any
+relevant fields of the class?
+- How do the values of any relevant fields of the class change from this
+specific request? If no values got changed, explain why.
+
+By _values_, we mean specific `String`s, `int`s, `URI`s, and so on. `"abc"` is a
+value, `456` is a value, `new URI("http://...")` is a value, and so on.)
+
+### Part 2
+
+Using the command line, show with `ls` and take screenshots of:
+
+- The absolute path to the _private_ key for your SSH key for logging into
+  `ieng6` (on your computer, an EdStem workspace, or on the home directory of
+  the lab computer)
+- The absolute path to the _public_ key for your SSH key for logging into
+  `ieng6` (this is the one you copied to your account on `ieng6`, so it should
+  be a path on `ieng6`'s file system)
+- A terminal interaction where you log into your `ieng6` account *without*
+  being asked for a password.
+
+### Part 3
+
+In a couple of sentences, describe something you learned from lab in week 2 or 3
+that you didn't know before.
+
