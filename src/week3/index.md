@@ -131,7 +131,10 @@ what’s done in Server.java and by Java’s HTTPServer library.
 
 For this part of the lab, you will be completing your skill demo on a platform
 called [PrairieTest](https://us.prairietest.com/). Your TA will show how to
-schedule your exam and use the workspace for the skill demo.
+schedule your exam and use the workspace for the skill demo. We recommend using
+Google Chrome. This isn't because Joe particularly likes that browser (he
+doesn't), but because that's what's installed on the department computers
+you'll do the later skill demos on.
 
 Note: The remaining skill demos (on weeks 5, 7, and 9) will be different from
 this week! You will be required to use the lab computers and will schedule your
