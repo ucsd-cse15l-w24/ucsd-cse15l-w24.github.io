@@ -27,6 +27,14 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M_S88_2t1UE?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Skill Demo
+
+For the first part of the lab, you will be completing your skill demo on a platform called PrairieTest. Your TA will show how to schedule your exam and use the workspace for the skill demo.
+
+Note: The remaining skill demos (on weeks 5, 7, and 9) will be different from this week! You will be required to use the lab computers and will schedule your skill demo separately for a time outside of your lab section. If you would like to practice using the lab computers, we recommend trying out the skill demo today on a lab computer. On future skill demos, you cannot communicate with other students and will have a time limit as well.
+
+Once you are done with your own skill demo, you can help out your group members complete the skill demo too! If all members of your group are done with the skill demo, you may begin with the lab tasks.
+
 ## Lab Tasks
 
 As usual, we publish these ahead of time, but they aren't guaranteed to be final
