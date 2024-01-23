@@ -230,6 +230,9 @@ replacing the spaces; don't worry about fixing that for this example. If you
 want to look it up it has to do with URL encoding, a topic we won't address
 right now.)
 
+You can assume that the `s=` parameter always comes before the `user=`
+parameter, and they are always separated by a `&` as shown above.
+
 Show the code for your `ChatServer`, and two screenshots of using `/add-message`.
 
 For **each** of the two screenshots, describe:
