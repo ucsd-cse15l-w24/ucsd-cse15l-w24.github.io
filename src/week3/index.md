@@ -129,11 +129,21 @@ what’s done in Server.java and by Java’s HTTPServer library.
 
 ### Part 2 –Skill Demo
 
-For the first part of the lab, you will be completing your skill demo on a platform called [PrairieTest](https://us.prairietest.com/). Your TA will show how to schedule your exam and use the workspace for the skill demo.
+For this part of the lab, you will be completing your skill demo on a platform
+called [PrairieTest](https://us.prairietest.com/). Your TA will show how to
+schedule your exam and use the workspace for the skill demo.
 
-Note: The remaining skill demos (on weeks 5, 7, and 9) will be different from this week! You will be required to use the lab computers and will schedule your skill demo separately for a time outside of your lab section. You will be allowed to use notes and other resources only on a personal device. If you would like to practice using the lab computers, we recommend trying out the skill demo today on a lab computer. On future skill demos, you cannot communicate with other students and will have a time limit as well.
+Note: The remaining skill demos (on weeks 5, 7, and 9) will be different from
+this week! You will be required to use the lab computers and will schedule your
+skill demo separately for a time outside of your lab section. You will be
+allowed to use notes and other resources only on a personal device. If you
+would like to practice using the lab computers, we recommend trying out the
+skill demo today on a lab computer. On future skill demos, you cannot
+communicate with other students and will have a time limit as well.
 
-Once you are done with your own skill demo, you can help out your group members complete the skill demo too! If all members of your group are done with the skill demo, you may begin with the lab tasks.
+Once you are done with your own skill demo, you can help out your group members
+complete the skill demo too! If all members of your group are done with the
+skill demo, you may begin with the lab tasks.
 
 
 ### Part 3 –Setting up SSH Keys for Easy Access, and Two New Commands
