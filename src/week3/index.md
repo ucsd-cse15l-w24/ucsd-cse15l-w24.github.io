@@ -180,15 +180,7 @@ cover them all in 10 weeks!
 On future labs and assignments, you can choose whether to start from EdStem or
 from Visual Studio Code on your own setup.
 
-### Skill Demo 1
-
-Instructions coming soon! If you're reading ahead, try logging into
-[https://us.prairietest.com/](https://us.prairietest.com/) with your UCSD
-Google Account to see if it's set up for you. There's nothing else to do until
-the day of lab.
-
-
-## Lab Report 2 - Servers and SSH Keys (Week 3) {#week3-lab-report}
+## Lab Report 2 - Servers and SSH Keys (Week 3)
 
 As with the first lab report, you'll write this as a Github Pages page, then
 print that page to PDF and upload to Gradescope. There are 3 parts:
