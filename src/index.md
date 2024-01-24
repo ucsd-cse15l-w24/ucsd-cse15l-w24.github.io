@@ -43,6 +43,7 @@ you can know roughly where we are headed.
 - Deadlines:
   - Quiz 3 Due **Wednesday, January 24, 9am**
   - Lab Report 2 Due **Tuesday, January 30, 10pm**
+  - Lab Report 1 Resubmission Due **Tuesday, January 30, 11:59pm**
 - Lecture Materials:
   - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1281XbfK5_dVXcVU-XNkb9BObIz0gt0hC/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
   - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1cTFm-d3cPLclZn0NxaD8Maqcapsx1Qwh/view?usp=sharing)
