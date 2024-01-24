@@ -4,6 +4,8 @@
 
 - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1281XbfK5_dVXcVU-XNkb9BObIz0gt0hC/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1cTFm-d3cPLclZn0NxaD8Maqcapsx1Qwh/view?usp=sharing)
+- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/127DMrEDOnEGvZ8OzIwbbsueraSTGuTrz/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
+- [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/18qAdUK8P-Cis9itwRQt1ddbqbLjhvKuk/view?usp=sharing)
 
 ### To Read/For Your Reference
 
