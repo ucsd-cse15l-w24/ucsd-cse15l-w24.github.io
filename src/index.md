@@ -37,6 +37,16 @@ The schedule below outlines topics, due dates, and links to assignments. The
 schedule of lecture topics might change slightly, but I post a general plan so
 you can know roughly where we are headed.
 
+### Week 4 - Testing and File Manipulation
+
+- [Lab 4 Activities](./week4/index.md)
+- Deadlines:
+  - Quiz 4 Due **Wednesday, January 31, 9am**
+  - Lab Report 2 Due **Tuesday, January 30, 10pm**
+- Lecture Materials:
+  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13piUG-QiDoxMq8X0lbkFT8sOHKj7D2lb/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
+  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1AJ0cpsywi0aLxS5DiKstIT2Eu8MljNHC/view?usp=sharing)
+ 
 ### Week 3 - VSCode and Your Local Machine
 
 - [Lab 3 Activities](./week3/index.md)
