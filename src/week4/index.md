@@ -2,6 +2,9 @@
 
 ## Lecture Materials
 
+- [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13piUG-QiDoxMq8X0lbkFT8sOHKj7D2lb/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
+- [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1AJ0cpsywi0aLxS5DiKstIT2Eu8MljNHC/view?usp=sharing)
+
 ### To Read/For Your Reference
 
 - [Bash and Shell Scripting 1](https://missing.csail.mit.edu/2020/course-shell/)
