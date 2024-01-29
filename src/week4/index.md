@@ -181,7 +181,7 @@ Now your changes to this repository should be visible in GitHub!
 
 You can see more documentation about git and pushing your changes here:
 
-- [Key definitions about git](https://ucsd-cse15l-f23.github.io/week/week1/)
+- [Key definitions about git](https://ucsd-cse15l-w24.github.io/week1/index.html#key-definitions)
 - [Github documentation about pushing changes](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github)
 
 Next, for `averageWithoutLowest`, you will do a similar process as above, making sure to note symptoms, failure-inducing inputs, and bugs. But, this time, **your lab partner will brainstorm one of the tests for you to write, describe it to you at a high level, and then you will implement it.** Complete these steps as described below.
