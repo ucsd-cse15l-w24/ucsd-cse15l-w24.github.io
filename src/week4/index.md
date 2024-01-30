@@ -85,6 +85,8 @@ This makes a copy of the repository on in your Github account. Then, clone the
 repository that you forked (not the original!) using Github Desktop, and open it
 in Visual Studio Code.
 
+**Write down in notes** - Find the exact location of the cloned repository in your computer's file system and write down the entire pathname. It is worthwhile to keep track of where cloned repos are located and to organize your computer.
+
 There are a few relevant files for us:
 
 - `ArrayExamples.java`
