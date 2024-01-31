@@ -6,6 +6,8 @@
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1cTFm-d3cPLclZn0NxaD8Maqcapsx1Qwh/view?usp=sharing)
 - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/127DMrEDOnEGvZ8OzIwbbsueraSTGuTrz/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
 - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/18qAdUK8P-Cis9itwRQt1ddbqbLjhvKuk/view?usp=sharing)
+- Monday Notes <iframe src="https://drive.google.com/file/d/1fSI3BnfmhkGhgmtBXnkJ_T6QZJmPuSea/preview" width="100%" height="600px"></iframe>
+- Wednesday Notes <iframe src="https://drive.google.com/file/d/1oqmo9Xo1JRYbJjXkDMRxo-rV84Curf-I/preview" width="100%" height="600px"></iframe>
 
 ### To Read/For Your Reference
 
