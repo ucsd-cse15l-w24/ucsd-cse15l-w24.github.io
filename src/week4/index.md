@@ -4,7 +4,9 @@
 
 - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13piUG-QiDoxMq8X0lbkFT8sOHKj7D2lb/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1AJ0cpsywi0aLxS5DiKstIT2Eu8MljNHC/view?usp=sharing)
+- [Monday EdStem Workspace](https://edstem.org/us/courses/51148/workspaces/pmR1VvWUrmFdVdJ5zvaS8BpaeSiB7hMu)
 - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13iOKAl6k-1018WpEJJIRf3UIzYnpfUdm/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
+- [Wednesday EdStem Workspace](https://edstem.org/us/courses/51148/workspaces/pMeLipp0jL1QbeJ31Qc6NdH4XnroPcfr)
 
 ### To Read/For Your Reference
 
