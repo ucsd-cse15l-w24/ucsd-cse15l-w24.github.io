@@ -1,5 +1,7 @@
 # Week 4 – Testing and File Manipulation
 
+<!-- toc -->
+
 ## Lecture Materials
 
 - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13piUG-QiDoxMq8X0lbkFT8sOHKj7D2lb/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
