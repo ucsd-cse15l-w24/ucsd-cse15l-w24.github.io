@@ -37,6 +37,16 @@ The schedule below outlines topics, due dates, and links to assignments. The
 schedule of lecture topics might change slightly, but I post a general plan so
 you can know roughly where we are headed.
 
+### Week 5 – File Exploration and Text Analysis from the Command Line
+
+- [Lab 5 Activities](./week5/index.md)
+- Deadlines:
+  - Quiz 5 Due **Wednesday, February 7, 9am**
+  - Lab Report 3 Due **Tuesday, February 13, 10pm**
+- Lecture Materials:
+  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/12_-kvpyzGMU5LaTJgjQMxbRoZhN3P9Ly/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
+  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/15jPpueKIIctNBL1dgkXj6TEyQdtpIXiU/view?usp=sharing)
+
 ### Week 4 - Testing and File Manipulation
 
 - [Lab 4 Activities](./week4/index.md)
