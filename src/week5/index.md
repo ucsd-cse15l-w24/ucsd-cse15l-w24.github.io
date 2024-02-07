@@ -4,6 +4,8 @@
 
 - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/12_-kvpyzGMU5LaTJgjQMxbRoZhN3P9Ly/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/15jPpueKIIctNBL1dgkXj6TEyQdtpIXiU/view?usp=sharing)
+- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/12WAVMCkyDjOYnLK3g4VF5QXEfJ6zjgq0/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
+- [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1-q-2oqlWWyC5_xm8Uq3oxBJ6_1U7D__3/view?usp=sharing)
 
 ## Lab Tasks
 
