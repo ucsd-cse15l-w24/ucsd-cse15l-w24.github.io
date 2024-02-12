@@ -37,6 +37,17 @@ The schedule below outlines topics, due dates, and links to assignments. The
 schedule of lecture topics might change slightly, but I post a general plan so
 you can know roughly where we are headed.
 
+### Week 6 – Scripting, CI, and Autograding
+
+- [Lab 6 Activities](./week6/index.md)
+- Deadlines:
+  - Quiz 6 Due **Wednesday, February 14, 9am**
+  - Lab Report 3 Due **Tuesday, February 13, 10pm**
+  - Lab Report 2 Resubmission Due **Tuesday, February 13, 11:59pm**
+- Lecture Materials:
+  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/12uJMpqCtK4eky0nco598ltxUuwP_wqQy/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
+  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1UqCrST7Cd_-e8aJkHdmmBUyrYNbrPbHw/view?usp=sharing)
+
 ### Week 5 – File Exploration and Text Analysis from the Command Line
 
 - [Lab 5 Activities](./week5/index.md)
