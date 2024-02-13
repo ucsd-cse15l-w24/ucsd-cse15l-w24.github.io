@@ -7,6 +7,7 @@
 - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/12WAVMCkyDjOYnLK3g4VF5QXEfJ6zjgq0/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
 - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1-q-2oqlWWyC5_xm8Uq3oxBJ6_1U7D__3/view?usp=sharing)
 - Monday Notes <iframe src="https://drive.google.com/file/d/13V_dJ3paNNeYrm55sfxWPRxCnansDm3i/preview" width="100%" height="600px"></iframe>
+- Wednesday Notes <iframe src="https://drive.google.com/file/d/1YJTx58-PVt4mDiV8jiqKLnBBpA0ll6Nh/preview" width="100%" height="600px"></iframe>
 
 ## Lab Tasks
 
