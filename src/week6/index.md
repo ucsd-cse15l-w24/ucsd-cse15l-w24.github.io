@@ -59,7 +59,7 @@ When your script gets a student submission it should produce either:
 
 A general workflow for your script could be:
 
-1. Clone the repository of the student submission to a well-known directory
+1. Clone the repository of the student submission (you can find a list of submissions to test against [here](#sample-submissions)) to a well-known directory
 name (provided in starter code) _This is done by the git clone command in the
 provided script_
 2. Check that the student code has the correct file submitted. If they didn't,
@@ -94,7 +94,7 @@ up or cleanup you need to do before or after running it?
 **Write down in notes:** screenshots of what your grader does on each of the
 sample student cases below.
 
-### “Student” Submissions
+### Sample Submissions
 
 Assume the assignment spec was to submit:
 
