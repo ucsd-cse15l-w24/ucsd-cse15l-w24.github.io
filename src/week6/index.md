@@ -65,24 +65,24 @@ provided script_
 2. Check that the student code has the correct file submitted. If they didn't,
 detect and give helpful feedback about it. _This is not done by the provided
 code, you should figure out where to add it_
-  - Useful tools here are `if` and `-e`/`-f`. You can use the `exit` command to
+      - Useful tools here are `if` and `-e`/`-f`. You can use the `exit` command to
     quit a bash script early. These are summarized in the [week 4 Wednesday
     lecture
     handout](https://docs.google.com/presentation/d/13iOKAl6k-1018WpEJJIRf3UIzYnpfUdm/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
 3. Get the student code, the `.java` file with the grading tests, and any other
 files the script needs into the `grading-area` directory. _The `grading-area`
 directory is created for you, but you should move the files there._
-  - Useful tools here might be `cp` (also look up the `-r` option to `cp`)
+      - Useful tools here might be `cp` (also look up the `-r` option to `cp`)
 4. Compile your tests and the student's code from the appropriate directory
 with the appropriate classpath commands (remember that if you're testing
 locally on Windows, the [classpath is
 different](https://ucsd-cse15l-w24.github.io/week4/index.html#:~:text=OK%20(2%20tests)-,WINDOWS%20USERS%3A,-local%20%24%20javac%20%2Dcp)). If the compilation fails, detect and
 give helpful feedback about it. _You should add this_
-  - Aside from the necessary `javac`, useful tools here are output redirection
+      - Aside from the necessary `javac`, useful tools here are output redirection
     and error codes (`$?`) along with `if`
-  - This might be a time where you need to turn _off_ `set -e`. Why?
+      - This might be a time where you need to turn _off_ `set -e`. Why?
 5. Run the tests and report the grade based on the JUnit output. _You should add this_
-  - Again output redirection will be useful, and also tools like `grep` could
+      - Again output redirection will be useful, and also tools like `grep` could
     be helpful here
 
 **Work incrementally** – make sure you understand what the given code does. Then
