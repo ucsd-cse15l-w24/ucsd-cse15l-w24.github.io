@@ -1,3 +1,18 @@
+# Week 7 - Doing it All from the Command Line
+
+## Lecture Materials
+
+- [Monday Lecture Video (Holiday, no handout)]
+  <iframe src="https://drive.google.com/file/d/1Dlxi5vlfHKRu5v3Vwr7OMbZuINohMn1q/preview" width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+- [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/13WNkdI6pSdmGcbousnF0AGn_9Lvu1fIj/view?usp=drive_link)
+- [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13bwkHYiLGMRSD8t5Pl-pSZHE-V2fe6FS/edit?usp=drive_link&ouid=117453768726816085396&rtpof=true&sd=true)
+
+## Related Links
+
+- [About Git](https://docs.github.com/en/get-started/using-git/about-git)
+- [Git](https://git-scm.com/) (You don't necessarily have to install this on its own for your computer; but this is the link to the underlying tool called `git`. It's included in Github Desktop.)
+- [Vim](https://www.vim.org/)
+
 ## Lab Tasks
 
 Discuss with your group:
