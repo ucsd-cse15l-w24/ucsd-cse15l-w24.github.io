@@ -253,7 +253,7 @@ forget to delete and re-fork the repository before timing!
 
 **Write down in notes:** How much were you able to improve from your baseline?
 
-## Lab Report 4 - Vim (Week 7) {#week7-lab-report}
+## Lab Report 4 - Vim (Week 7)
 
 For the lab report this week, reproduce the task from above on your own. For each
 numbered step starting right after the timer (so steps 4-9), take a screenshot,
