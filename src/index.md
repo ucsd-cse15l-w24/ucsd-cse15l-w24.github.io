@@ -37,6 +37,17 @@ The schedule below outlines topics, due dates, and links to assignments. The
 schedule of lecture topics might change slightly, but I post a general plan so
 you can know roughly where we are headed.
 
+### Week 7 – Doing it All from the Command Line
+
+- [Lab 7 Activities](./week7/index.md)
+- Deadlines:
+  - Quiz 7 Due **Wednesday, February 21, 9am**
+  - Lab Report 4 Due **Tuesday, February 27, 10pm**
+- Lecture Materials:
+  - [Monday Lecture Video (Holiday, no handout)](https://drive.google.com/file/d/1Dlxi5vlfHKRu5v3Vwr7OMbZuINohMn1q/preview)
+  - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/13WNkdI6pSdmGcbousnF0AGn_9Lvu1fIj/view?usp=drive_link)
+  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/13bwkHYiLGMRSD8t5Pl-pSZHE-V2fe6FS/edit?usp=drive_link&ouid=117453768726816085396&rtpof=true&sd=true)
+
 ### Week 6 – Scripting, CI, and Autograding
 
 - [Lab 6 Activities](./week6/index.md)
