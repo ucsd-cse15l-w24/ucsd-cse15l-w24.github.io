@@ -95,25 +95,13 @@ and share tips.
 
 #### Timing Tasks
 
-These are the tasks you will be timing yourself on. As setup, Make a fork of
-[the lab 7 repo](https://github.com/ucsd-cse15l-s23/lab7) on your Github
-account, so it starts as an exact copy of our repository. Before timing yourself
-again, make sure to delete and re-fork the repository so you’re starting from a
-clean state.  The TAs were able to get under 5 minutes after a couple of tries.
+In this section, you will be timing yourself while performing a set of tasks. The 
+tasks you will be performing will include forking a repository, cloning the fork 
+using the `SSH` url, running a set of JUnit tests to demonstrate that they fail,
+fixing the bug using the `vim` editor and then re-running the tests.
 
-So a run through this process will look like this. Don't do it just yet, though.
-There's a little bit of setup involved!
-
-*This is just a preview, don't do these steps yet!*
-1. **Setup** Delete any existing forks of the repository you have on your account
-2. **Setup** Fork the repository
-3. **The real deal** Start the timer!
-1. Log into ieng6
-2. Clone your fork of the repository from your Github account (using the `SSH` URL)
-3. Run the tests, demonstrating that they fail
-4. Edit the code file `ListExamples.java` to fix the failing test (as a reminder, the error in the code is just that `index1` is used instead of `index2` in the final loop in `merge`)
-5. Run the tests, demonstrating that they now succeed
-6. Commit and push the resulting change to your Github account
+Before we get to that though, there are few things that you will need to setup that will
+help you save a lot of time!
 
 #### Generating SSH Keys for ieng6
 
@@ -179,12 +167,14 @@ pushing all from the command line before going on!
 
 #### Baseline
 
+Let the time trials begin!
+
 First, we'll take a baseline measurement of performing the tasks above by timing
 yourself. Your phone may have a timer app, or you can find one by searching for
 online timers. The steps from above are duplicated here:
 
 1. **Setup** Delete any existing forks of the repository you have on your account
-2. **Setup** Fork the repository
+2. **Setup** Fork the [repository](https://github.com/ucsd-cse15l-s23/lab7)
 3. **The real deal** Start the timer!
 1. Log into ieng6
 2. Clone your fork of the repository from your Github account (using the `SSH` URL)
