@@ -12,6 +12,8 @@
 
 ## Lab Tasks
 
+As always, we have published the lab beforehand but they are subject to change until the start of the labs on Wednesday.
+
 Discuss with your group:
 ![Image](../../images/circles_vs_triangles.png)
 
