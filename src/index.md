@@ -37,6 +37,16 @@ The schedule below outlines topics, due dates, and links to assignments. The
 schedule of lecture topics might change slightly, but I post a general plan so
 you can know roughly where we are headed.
 
+### Week 8 – Doing it All from the Command Line
+
+- [Lab 8 Activities](./week8/index.md)
+- Deadlines:
+  - Quiz 8 Due **Wednesday, February 28, 9am**
+  - Lab Report 4 Due **Tuesday, February 27, 10pm**
+- Lecture Materials:
+  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1XTtv6DswnhH3i3tBmEW31eTW-FCOte7Q/view?usp=sharing)
+  - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/14EV0i0urY3vycA2ZZs11XvdYjRQ6lBB7/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
+
 ### Week 7 – Doing it All from the Command Line
 
 - [Lab 7 Activities](./week7/index.md)
