@@ -25,7 +25,7 @@ Discuss with your group:
 Fork the repo [chat-server](https://github.com/ucsd-cse15l-w24/chat-server), making sure you **unselect** "copy the main branch only." Here's a screenshot of what that looks like:
 ![main-branch](../../images/main-branch.png)
 
-Then, after `ssh`ing into ieng6, clone **your** copy of the `chat-server` repo using the SSH URL. 
+Then, after `ssh`ing into ieng6, clone **your** fork of the `chat-server` repo. 
 
 Make sure you can `javac` and `java` as per usual to build and run your tests: 
 ```
@@ -69,8 +69,9 @@ just a terminal! Take a screenshot of your test results and paste them into your
 
 As a group, discuss and **write in notes**:
 
-- What were two things you thought were annoying about using vim? Be specific.
-- What were two things you thought were cool about using vim? Be specific.
+- What were the names of the test functions within `HandlerTests.java`?
+- What were two things you thought were annoying about using `vim`? Be specific.
+- What were two things you thought were cool about using `vim`? Be specific.
 
 ### git branches
 
@@ -84,18 +85,30 @@ Fun Fact: [Sprint](https://www.codecademy.com/resources/blog/what-is-a-sprint/) 
 ### Using a Debugger
 1. We will now want to recompile our code and rerun our new tests for the semantic analysis. Run: 
 ```
-$ javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java 
+$ javac -encoding utf-8 -g -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java 
 $ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore SemanticAnalysisHandlerTests
 ```
-Notice that we have an infinite loop where the terminal stuck at ... This will eventually result to test failures.
+Notice that we have an infinite loop where the terminal stuck at . This will eventually result to test failures.
     
 2. Next, use `jdb` to run the JUnit tests. You can refer to the lecture videos for a good way to
 do this. Again, use `jdb` commands to find:
     - The stack trace when the exception is happening
     - The local variables in `index` and `analysis` when the exception is happening
 
-Then, diagnose and fix the bug so that all the tests pass. Make a commit with
-the fix and push it to Github. Paste the Github link to the commit in your notes. Recall from lecture the following terminal commands for adding files, commiting changes and pushing said changes:
+3. Now, diagnose and fix the bug so that all the tests pass. There will be 3 bugs that you will need to identify and fix. After identifying one, discuss with your members how to fix it and copy and paste the code into code markdown with the fixes. Recompile and rerun your tests. What other bugs can you find? What variables should we be looking at instead of `index` and `analysis`? Should we stil look at these variables or others? Find each bug and use `jdb` to step through your code.
+
+Practice using `jdb` with `suspend` to pause the program and show the stack
+trace during the loop. You should be able to identify:
+
+- Which test is triggering the infinite loop
+- Which line the program stopped on when the program was `suspend`ed
+- What the current values of all the variables are in `/semantic-analysis` at the
+moment the program suspended
+
+Take a screenshot or copy/paste of your `jdb` session and indicate in your notes
+each of the three items above and how your `jdb` session informs you of that.
+
+4. Make a commit with the fix and push it to Github. Paste the Github link to the commit in your notes. Recall from lecture the following terminal commands for adding files, commiting changes and pushing said changes:
 ```
 git add
 git commit
@@ -110,7 +123,7 @@ unable to get via the stack trace of the exception?
 statements to do so?
 - Discuss the `/semantic-analysis` command – What emoji's are there? How are they being analyzed and how is the semantic implemented? How could these type of methods be useful for analyzing other chat histories?
 
-
+<!--
 ### More Debugger Uses
 
 After compiling the new branch, run the `ChatServer` code, 
@@ -126,7 +139,7 @@ moment the program suspended
 
 Take a screenshot or copy/paste of your `jdb` session and indicate in your notes
 each of the three items above and how your `jdb` session informs you of that.
-
+-->
 ### Adding Your Own Emojis!
 
 Now, consider the following chat histories. Edwin and Onat are other 15L professors and these are conversations between all the professors:
