@@ -127,8 +127,8 @@ Take a screenshot or copy/paste of your `jdb` session and indicate in your notes
 each of the three items above and how your `jdb` session informs you of that.
 
 ### Adding Your Own Emojis!
-<!-- 
-Now, consider the following chat histories between the professors:
+
+Now, consider the following chat histories. Edwin and Onat are other 15L professors and these are conversations between all the professors:
 
 ### Snippet 1
 
@@ -222,7 +222,6 @@ For **each** snippet, add a test both to **your** implementation of
 `ChatServer` that takes into account an emoji for **each** snippet and performs a semantic analysis. Run the tests and show
 the results of running the tests on each on your lab doc. This means you should add a total of
 **3** test methods, one for each semantic analysis implementation.
--->
 <!-- 
 ## Week 8 Lab Report
 Your report should include:
