@@ -25,7 +25,7 @@ Discuss with your group:
 Fork the repo [chat-server](https://github.com/ucsd-cse15l-w24/chat-server), making sure you **unselect** "copy the main branch only." Here's a screenshot of what that looks like:
 ![main-branch](../../images/main-branch.png)
 
-Then, after `ssh`ing into ieng6, clone **your** copy of the `chat-server` repo. 
+Then, after `ssh`ing into ieng6, clone **your** copy of the `chat-server` repo using the SSH URL. 
 
 Make sure you can `javac` and `java` as per usual to build and run your tests: 
 ```
