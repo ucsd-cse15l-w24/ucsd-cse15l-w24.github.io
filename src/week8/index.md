@@ -9,7 +9,7 @@
 - Videos on `jdb`:
     - [Debuggers and `jdb`](https://www.youtube.com/watch?v=0Olg_U0Su_I)
     - [`jdb` and Infinite Loops](https://youtu.be/AFkUAwvPTGA)
-- Week 7 Skill Demo Solution <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v=0EY46CfEIQs?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- Week 7 Skill Demo Solution <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0EY46CfEIQs?si=6DPz27tCRfzEi8zt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Lab Tasks
 
