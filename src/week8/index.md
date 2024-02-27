@@ -63,14 +63,14 @@ http://ieng6-[number].ucsd.edu:[port number]/save?name=[file name]
 
 to save the messages into a new file. You can see the new file saved under `chathistory` folder.
 
-Now on your own, open the java test file by giving it as an argument to `vim`, like
-`vim HandlerTests.java`. Browse through the test and quit vim. Note that all test should now work! Our devs worked overtime to fix these bugs! You've just done file handling entirely on ieng6; you didn't need VScode at all,
+Now on your own, open the java test file by giving it as an argument to `vim`, i.e.
+`vim HandlerTests.java`. Note there's nothing to fix here, but we would like you to browse through the test and then quit vim. Note that the test should now work - our devs worked overtime to fix these bugs! You've just done file handling entirely on ieng6; you didn't need VScode at all,
 just a terminal! Take a screenshot of your test results and paste them into your document.
 
 As a group, discuss and **write in notes**:
 
-- What were two things you thought were annoying about using Vim? Be specific.
-- What were two things you thought were cool about using Vim? Be specific.
+- What were two things you thought were annoying about using vim? Be specific.
+- What were two things you thought were cool about using vim? Be specific.
 
 ### git branches
 
