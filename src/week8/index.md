@@ -22,10 +22,10 @@ Discuss with your group:
 
 **Everyone** should do this; it's skill practice that you all need.
 
-Fork the repo [chat-server](https://github.com/ucsd-cse15l-w24/chat-server), making sure you **unselect** "copy the main branch only." Here's a screenshot of what that looks like:
+Fork the repo [chat-server-pro](https://github.com/ucsd-cse15l-w24/chat-server-pro), making sure you **unselect** "copy the main branch only." Here's a screenshot of what that looks like:
 ![main-branch](../../images/main-branch.png)
 
-Then, after `ssh`ing into ieng6, clone **your** fork of the `chat-server` repo. 
+Then, after `ssh`ing into ieng6, clone your **fork** of the `chat-server-pro` repo. 
 
 Make sure you can `javac` and `java` as per usual to build and run your tests: 
 ```
@@ -77,7 +77,7 @@ As a group, discuss and **write in notes**:
 
 **Do this part as a group**, while logged into someone's account on `ieng6`. Here we will look at a branch in our code that is currently in developement and a work in progress. You and your group have been tasked with testing and debugging the new beta branch. This new branch includes adding even more functionality to the `ChatServer` you just pulled, such as semantic analysis based on emoji's used.
 
-1. Make sure you are in the `chat-server` folder and run `git branch` to see the current branch we are in and `git branch -a` to list all available branches. Take a screenshot of these commands and add them to your shared lab doc.
+1. Make sure you are in the `chat-server-pro` folder and run `git branch` to see the current branch we are in and `git branch -a` to list all available branches. Take a screenshot of these commands and add them to your shared lab doc.
 2. Notice the presence of the `week8-sprint` branch which is only available remotely. We will want to checkout the new `week8-sprint` branch by running `git checkout week8-sprint`. Normally performing a `git checkout` will update your current repo to that branch, but to ensure that we have the latest updates, you can always run a fresh pull in order to update our files. Let's do that by running `git pull` and verify our branch by running another `git branch`. Go ahead and take a screenshot of these steps and add them to your document. Discuss with your group members and write a short summary of what you just did in steps 1-2.
 
 Fun Fact: [Sprint](https://www.codecademy.com/resources/blog/what-is-a-sprint/) is a common Software Engineering technique used to complete project milestones.
