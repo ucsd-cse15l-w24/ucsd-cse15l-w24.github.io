@@ -3,8 +3,10 @@
 ## Lecture Materials
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1XTtv6DswnhH3i3tBmEW31eTW-FCOte7Q/view?usp=sharing)
 - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/14EV0i0urY3vycA2ZZs11XvdYjRQ6lBB7/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
+- [Monday EdStem Workspace](https://edstem.org/us/courses/51148/workspaces/pJq0Arr9rHhhaIXhq4RkmOzLhfBTnpMY)
 - [Wednesday Lecture Handout (PDF)](https://drive.google.com/file/d/1eAoODTAVoxD-37UKxT6P-mjmkNg7puAu/view?usp=sharing)
 - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/1491K1SwkcP7o3ulwt8kFrQRe-Z1rJqRb/edit?usp=sharing&ouid=109342588918218787603&rtpof=true&sd=true)
+- Monday Notes <iframe src="https://drive.google.com/file/d/1erszbTMKaTs8Ee3ZmeEvkLU4rG-6Q3Mc/preview" width="100%" height="600px"></iframe>
 
 ### To Watch/Read
 
