@@ -99,7 +99,7 @@ do this. Again, use `jdb` commands to find:
     - The stack trace when the exception is happening
     - The local variables in `index` and `analysis` when the exception is happening
 
-3. Now, diagnose and fix the bug so that all the tests pass. There will be 3 bugs that you will need to identify and fix. After identifying one, discuss with your members how to fix it and copy and paste the code into code markdown with the fixes. Recompile and rerun your tests. What other bugs can you find? What variables should we be looking at instead of `index` and `analysis`? Should we stil look at these variables or others? Find each bug and use `jdb` to step through your code.
+3. Now, diagnose and fix the bug so that all the tests pass. There will be 3 bugs that you will need to identify and fix. Note that you may need to add additional tests to unearth these bugs as the given tests may not exhibit them! After identifying one, discuss with your members how to fix it and copy and paste the code into code markdown with the fixes. Recompile and rerun your tests. What other bugs can you find? What variables should we be looking at instead of `index` and `analysis`? Should we still look at these variables or others? Find each bug and use `jdb` to step through your code.
 
 Practice using `jdb` with `suspend` to pause the program and show the stack
 trace during the loop. You should be able to identify:
