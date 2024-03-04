@@ -42,6 +42,8 @@ you can know roughly where we are headed.
 - Deadlines:
   - Quiz 9 Due **Wednesday, March 6, 9am**
   - Lab Report 5 Due **Tuesday, march 12, 10pm**
+- Lecture Materials:
+  - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/11tcaVqKZ5rObHG_ELemC4vv_nLAkuTv-/view?usp=sharing)
 
 ### Week 8 – Doing it All from the Command Line
 
