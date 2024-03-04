@@ -24,27 +24,6 @@ the code for 30-40 minutes.
 you'll share feedback.
 4. The feedback will be summarized as a pull request to your repository.
 
-## Lab Tasks
-    
-Discuss with your group:
-    
-![Image](../../images/fictional_map.png)
-    
-Write down your answers (and why you chose them!) in your group's shared doc.
-
-In this lab, you will review another group's code to give feedback, find new
-bugs, and learn from each other.
-
-The overall plan for lab is:
-
-1. You'll have 30 minutes to work towards completion of your grading script from
-week 6, preparing it to be shared with another pair of students.
-3. You will get a link to a repository from another group, download and work on
-the code for 30-40 minutes.
-3. Your pair will meet with the pair whose code you reviewed/are reviewing, and
-you'll share feedback.
-4. The feedback will be summarized as a pull request to your repository.
-
 ### Part 1 – Implementation Polishing
 
 Make as much progress as you can on your grading script from [Week
