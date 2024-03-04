@@ -37,8 +37,7 @@ The schedule below outlines topics, due dates, and links to assignments. The
 schedule of lecture topics might change slightly, but I post a general plan so
 you can know roughly where we are headed.
 
-### Week 9 
-
+### Week 9 - Code Review/It Works on My Machine
 - [Lab 9 Activities](./week9/index.md)
 
 ### Week 8 – Doing it All from the Command Line
