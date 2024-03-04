@@ -1,92 +1,28 @@
----
-layout: page-fullwidth
-subheadline: Week 9
-published: true
-title:  "Week 9 – Code Review/It Works on My Machine"
-tags:
-    - post week
-categories:
-    - week
-header: no
-current: false
-todos:
-    - due-date: "9:00 am Wednesday November 29, 2023"
-      name: "Quiz 9"
-      url: "https://www.gradescope.com"
-    - due-date: "During Your Scheduled Skill Demo Time"
-      name: "Skill Demo 4"
-      url: "https://us.prairietest.com/"
-    - due-date: "10:00 pm Sunday December 3, 2023"
-      name: "Lab Report 4 Resubmission"
-      url: "/week/week7/#week7-lab-report"
-    - due-date: "10:00 pm Sunday December 3, 2023"
-      name: "Lab Report 5"
-      url: "/week/week9/#week9-lab-report"
-handouts:
-    - name: "Monday Lecture Handout (Slides)"
-      url: "https://docs.google.com/presentation/d/1e6-kZAYwcRlMyFgZvgbswwa-vyJ5I2m2_Rxnz3KW7cw/edit?usp=share_link"
-    - name: "Monday Lecture Handout (PDF)"
-      url: "https://drive.google.com/file/d/1huBjH2_RfVQU8K_Ej1kX1ocsRm_9HPNy/view?usp=share_link"
-    - name: "Wednesday Lecture Handout (Slides)"
-      url: "https://docs.google.com/presentation/d/1DH7-n8FWcTbWey7Q9zZIlKeZqtUUnS75oxMVN0GSkVE/edit?usp=share_link"
-    - name: "Wednesday Lecture Handout (PDF)"
-      url: "https://drive.google.com/file/d/1eTS61kXBGJoGmWIllHySmsUamqDC5_km/view?usp=share_link"
-notes:
-    - name: "Monday Notes (Joe - A00)"
-      url: "https://drive.google.com/file/d/1IzaVhgYiB0-Q4NJVsESyr9MxG-4v-bvs/view?usp=sharing"
-podcasts:
-    - name: "9 am Section - A00"
-      url: "https://podcast.ucsd.edu/watch/fa23/cse15l_a00"
-    - name: "11 am Section - B00"
-      url: "https://podcast.ucsd.edu/watch/fa23/cse15l_b00"
-    - name: "12 pm Section - C00"
-      url: "https://podcast.ucsd.edu/watch/fa23/cse15l_c00"
-    - name: "9 am Section - D00"
-      url: "https://podcast.ucsd.edu/watch/fa23/cse15l_d00"
-    - name: "10 am Section - E00"
-      url: "https://podcast.ucsd.edu/watch/fa23/cse15l_e00"
----
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius fixed-toc"  data-options="sticky_on:large" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-</div><!-- /.medium-4.columns -->
-
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-
-## Due Dates & Links
-
-<ul>
-{% for todo in page.todos %}
-<li><a href="{{ todo.url }}">{{ todo.name }}</a> - Due {{ todo.due-date }}</li>
-{% endfor %}
-</ul>
+# Week 9 – Code Review/It Works on My Machine
 
 ## Lecture Materials
-<ul>
-{% for handout in page.handouts %}
-<li><a href="{{handout.url}}">{{handout.name}}</a></li>
-{% endfor %}
-</ul>
+- [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/11tcaVqKZ5rObHG_ELemC4vv_nLAkuTv-/view?usp=sharing)
 
-### In-class notes
-{% for note in page.notes %}
-<li><a href="{{ note.url }}">{{ note.name }}</a></li>
-<!-- <iframe src="{{ note.url }}/preview" width="640" height="480" allow="autoplay"></iframe> -->
-{% endfor %}
+## Lab Tasks
+    
+Discuss with your group:
+    
+![Image](../../images/fictional_map.png)
+    
+Write down your answers (and why you chose them!) in your group's shared doc.
 
-### Links to Podcast
-**Note:** Links will require you to log in as a UCSD student
-<ul>
-{% for link in page.podcasts %} 
-<li><a href="{{link.url}}">{{link.name}}</a></li>
-{% endfor %}
-</ul>
+In this lab, you will review another group's code to give feedback, find new
+bugs, and learn from each other.
+
+The overall plan for lab is:
+
+1. You'll have 30 minutes to work towards completion of your grading script from
+week 6, preparing it to be shared with another pair of students.
+3. You will get a link to a repository from another group, download and work on
+the code for 30-40 minutes.
+3. Your pair will meet with the pair whose code you reviewed/are reviewing, and
+you'll share feedback.
+4. The feedback will be summarized as a pull request to your repository.
 
 ## Lab Tasks
     
