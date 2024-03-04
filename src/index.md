@@ -39,6 +39,9 @@ you can know roughly where we are headed.
 
 ### Week 9 - Code Review/It Works on My Machine
 - [Lab 9 Activities](./week9/index.md)
+- Deadlines:
+  - Quiz 9 Due **Wednesday, March 6, 9am**
+  - Lab Report 5 Due **Tuesday, march 12, 10pm**
 
 ### Week 8 – Doing it All from the Command Line
 
