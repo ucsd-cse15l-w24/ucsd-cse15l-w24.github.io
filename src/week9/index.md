@@ -186,7 +186,7 @@ that issues and pull requests are largely positive things – they are a sign th
 your project has people paying attention to it, and they are a normal and common
 part of managing a software system.
 
-## Lab Report 5 - Putting it All Together (Week 9) {#week9-lab-report}
+## Lab Report 5 - Putting it All Together (Week 9)
 
 ### Part 1 – Debugging Scenario
 
