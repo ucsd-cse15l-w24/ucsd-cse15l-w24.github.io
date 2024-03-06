@@ -41,7 +41,8 @@ you can know roughly where we are headed.
 - [Lab 9 Activities](./week9/index.md)
 - Deadlines:
   - Quiz 9 Due **Wednesday, March 6, 9am**
-  - Lab Report 5 Due **Tuesday, march 12, 10pm**
+  - Lab Report 5 Due **Tuesday, March 12, 10pm**
+  - Lab Report 4 Resubmission Due **Tuesday, March 12, 11:59pm**
 - Lecture Materials:
   - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/11tcaVqKZ5rObHG_ELemC4vv_nLAkuTv-/view?usp=sharing)
 
