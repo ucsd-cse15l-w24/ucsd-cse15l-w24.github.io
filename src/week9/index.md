@@ -2,7 +2,7 @@
 
 ## Lecture Materials
 - [Monday Lecture Video]
-  <iframe src="https://drive.google.com/file/d/1rlE3De2MB3BSmZNxx9tM6uxkytGp762H/view?usp=sharing" width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+  <iframe src="https://drive.google.com/file/d/1rlE3De2MB3BSmZNxx9tM6uxkytGp762H/view?t=2" width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/11tcaVqKZ5rObHG_ELemC4vv_nLAkuTv-/view?usp=sharing)
 - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/11rShyB0RQEbEyW9KKs-DxYhGBq_QUiFW/edit?usp=sharing&ouid=113414061309195332500&rtpof=true&sd=true)
 
