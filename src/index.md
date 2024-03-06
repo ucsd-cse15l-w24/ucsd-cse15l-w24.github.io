@@ -45,6 +45,8 @@ you can know roughly where we are headed.
   - Lab Report 4 Resubmission Due **Tuesday, March 12, 11:59pm**
 - Lecture Materials:
   - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/11tcaVqKZ5rObHG_ELemC4vv_nLAkuTv-/view?usp=sharing)
+  - [Monday Lecture Video](https://drive.google.com/file/d/1rlE3De2MB3BSmZNxx9tM6uxkytGp762H/preview)
+  - [Wednesday Lecture Handout (Slides)](https://docs.google.com/presentation/d/11rShyB0RQEbEyW9KKs-DxYhGBq_QUiFW/edit?usp=sharing&ouid=113414061309195332500&rtpof=true&sd=true)
 
 ### Week 8 – Doing it All from the Command Line
 
