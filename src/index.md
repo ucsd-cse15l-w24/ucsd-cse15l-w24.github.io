@@ -37,6 +37,14 @@ The schedule below outlines topics, due dates, and links to assignments. The
 schedule of lecture topics might change slightly, but I post a general plan so
 you can know roughly where we are headed.
 
+### Week 10 - Wrapping Up
+- [Lab 10 Activities](./week10/index.md)
+- Deadlines:
+  - Quiz 10 Due **Wednesday, March 13, 9am**
+  - Lab Report 5 Due **Tuesday, March 12, 10pm**
+  - Lab Report 4 Resubmission Due **Tuesday, March 12, 11:59pm**
+- Lecture Materials:
+  
 ### Week 9 - Code Review/It Works on My Machine
 - [Lab 9 Activities](./week9/index.md)
 - Deadlines:
