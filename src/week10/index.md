@@ -2,6 +2,8 @@
 
 ## Lecture Materials
 
+Come to class for review and discussion!
+
 ## Lab Tasks
 
 In this lab, you'll be presented with a sequence of common debugging scenarios
