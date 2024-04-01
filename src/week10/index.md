@@ -4,10 +4,6 @@
 
 Come to class for review and discussion!
 
-## Extra Video Shorts
-
-- Week 9 Skill Demo Solution <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8ig3HS4o2Tc?si=MLSB0fwgWDvXCLxr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Lab Tasks
 
 In this lab, you'll be presented with a sequence of common debugging scenarios
